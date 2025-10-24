@@ -1,16 +1,17 @@
 
-- Instrucciones de ejecucion -
-Ejecutar los siguiente comandos en la ubicacion de la carpeta src:
+- Instrucciones de Ejecucion -
+  
+- Ejecutar los siguiente comandos en la ubicacion de la carpeta src:
 
-ghci
+1. ghci
 
-:l ER.hs ER_IMP.hs AFNe.hs AFN.hs AFD.hs AFDmin.hs MDD.hs Tokens.hs Lexer.hs Main.hs
+2. :l ER.hs ER_IMP.hs AFNe.hs AFN.hs AFD.hs AFDmin.hs MDD.hs Tokens.hs Lexer.hs Main.hs
 
-:set -main-is Main.main
+3. :set -main-is Main.main
 
-:l main
+4. :l main
 
-main
+5. main
 
 Notas:
 -El programa tarda en compilar
