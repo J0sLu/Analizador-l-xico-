@@ -1,0 +1,1 @@
+x := -42; if x > 0 then skip else y := y - 1;
