@@ -15,4 +15,6 @@
 
 Notas:
 -El programa tarda en compilar
--Al ejecutarse mostrara todas las pruebas, desde ER hasta el resultado de usar el lexer con un codigo de ejemplo de imp.
+
+-Al ejecutarse, mostrará todas las pruebas hechas, desde la creación de ER, hasta los tokens generados por el lexer al darle un pequeño código de prueba.
+
